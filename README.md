@@ -23,7 +23,7 @@ The reference configuration models one onshore ESP well with a reservoir inflow 
 
 ## Proposal preview
 
-[![Preview of the IEEE research proposal](docs/assets/proposal-preview.png)](proposal/openlift-ded-proposal.pdf)
+![Preview of the IEEE research proposal](docs/assets/proposal-preview.png)
 
 The editable source is available at [`proposal/openlift-ded-proposal.tex`](proposal/openlift-ded-proposal.tex). The PDF defines the research gap, questions, methodology, validation protocol, acceptance criteria, and limitations.
 
